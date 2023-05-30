@@ -1,5 +1,5 @@
 # Modeling-Development-and-Design-of-an-Inverted-Pendulum-System-
-A Bachelor's Thesis by a group of students from the Norwegian University of Science and Technology
+Repository for a bachelor's project by a group of students from the Norwegian University of Science and Technology
 
 ## About The Project
 The inverted pendulum has made its mark as a staple in the field of control theory, making an appearance in classic mechanical systems such as the Furuta pendulum and the cart-pendulum system. This thesis focuses on the reaction wheel pendulum, more specifically the modeling, development and design of an inverted spherical pendulum actuated by two perpendicular reaction wheels. The system is developed with the overarching objective of functioning as an interactive learning platform for testing and experimenting with various control configurations.
