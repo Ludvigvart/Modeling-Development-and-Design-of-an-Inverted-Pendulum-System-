@@ -21,13 +21,6 @@ This section includes different programs used in this project
 * [<a href="https://www.altium.com/altium-designer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSeZkUI6PymGaxIRjBVsYQfEBIH03PZB0Vg&usqp=CAU" alt="React.js" width="150"></a>](https://www.altium.com/altium-designer)
 
 
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
