@@ -27,8 +27,8 @@ When uploading new code to microcontroller, with a USB cable, it’s important t
 When charging the batteries for the system it’s recommended that a voltage between 12.6 - 13 V is supplied with a current of ca. 2 A. We suggest that the batteries should always have a charge between 11.1 – 12.6 V to retain suitable motor performance. 
 
 ## Notes Regarding included files
-The finalized microcontroller code can be accessed in the designated Arduino code folder. The CAD models of the system are made accessible within the CAD-models folder. Additionally, for the production of mechanical components via 3D-printing, the Gcode files are provided in the corresponding Gcode folder.
-The PC-program for the system is available as an executable "Inverted Pendulum Interface.exe". The program is intended to work on any Windows 10/11 PC with a screen resolution of 1920x1080 and a windows scaling factor set to 100%.
+The finalized microcontroller code can be accessed in the designated Arduino code folder. The G-Code files for the CAD models of the system are made accessible within the CAD folder. The design files for the custom PCB are available under the PCB folder. A compiled executable "Inverted Pendulum Interface.exe" of the PC-program is also provided, along the full Python code given in a Python folder. Regarding the PC-program it is worth mentioning that it’s intended to work on any Windows 10/11 PC with a screen resolution of 1920x1080, and a Windows scaling factor set to 100%.  
+
 
 
 
