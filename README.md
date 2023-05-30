@@ -19,8 +19,7 @@ This section includes different programs used in this project
 * [<a href="https://www.autodesk.no/products/fusion-360/overview"><img src="https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1" alt="Next.js" width="150" height="40"></a>](https://www.autodesk.no/products/fusion-360/overview)
 * [<a href="https://www.arduino.cc/en/software"><img src="https://images.squarespace-cdn.com/content/v1/5f4fc1d00dea6b17b03f63ad/1613610070709-1IF1A6I1W246K9U3NB1P/Screen+Shot+2021-02-17+at+18.00.37.png" alt="Next-url" width="150" height="40"></a>](https://www.arduino.cc/en/software)
 * [<a href="https://www.altium.com/altium-designer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSeZkUI6PymGaxIRjBVsYQfEBIH03PZB0Vg&usqp=CAU" alt="React.js" width="150" height="40"></a>](https://www.altium.com/altium-designer)
-
-
+* [<a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="osa.js" width="150" height="40"></a>](https://www.python.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -29,7 +28,7 @@ This section includes different programs used in this project
 
 
 
-
+[osa.js]: https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png
 [Next.js]: https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1
 [Next-url]: https://images.squarespace-cdn.com/content/v1/5f4fc1d00dea6b17b03f63ad/1613610070709-1IF1A6I1W246K9U3NB1P/Screen+Shot+2021-02-17+at+18.00.37.png
 [React.js]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSeZkUI6PymGaxIRjBVsYQfEBIH03PZB0Vg&usqp=CAU
