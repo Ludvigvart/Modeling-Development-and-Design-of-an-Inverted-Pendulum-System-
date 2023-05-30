@@ -12,7 +12,8 @@ The modeling of the system is centered around the derivation of an expression fo
   <img src="https://github.com/Ludvigvart/Modeling-Development-and-Design-of-an-Inverted-Pendulum-System-/assets/97682577/c611afdd-bf9d-439f-9153-e396584b6c3e" alt="dual_axis_system" width="300">
 </div>
 
-## Build with
+## Programs used
+Fusion 360 by Autodesk was used to create all the 3D-printed components for the system. The microcontroller program was written using Arduino C. Python 3.9 was used to create the PC-program. Altium Designer was used to design the custom PCB.
 This section includes different programs used in this project
 
 
