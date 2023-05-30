@@ -23,11 +23,11 @@ Python 3.11 was used to create the PC-program.
 
 
 ## Notes Regarding Usage
-When uploading new code to microcontroller, with a USB cable, it’s important that the power switch on the system is in the OFF position. With the power switch ON and a USB cable connected, it is likely that the microcontroller will be damaged since 5V then will be supplied from two different sources. 
-When charging the batteries for the system it’s recommended that a voltage between 12.6 - 13 V is supplied with a current of ca. 2 A. We suggest that the batteries should always have a charge between 11.1 – 12.6 V to retain suitable motor performance. 
+When uploading new code to microcontroller with a USB cable, it is important that the power switch on the system is in the OFF position. With the power switch ON and a USB cable connected, it is likely that the microcontroller will be damaged, as 5 V then will be supplied from two different sources. 
+When charging the batteries, it is recommended that a voltage between 12.6 - 13 V is supplied with a current of approximately 2 A. We suggest that the batteries should always have a charge between 11.1 – 12.6 V to retain suitable motor performance. 
 
 ## Notes Regarding Included Files
-The finalized microcontroller code can be accessed in the designated Arduino code folder. The CAD models and adjoining G-code files of the systems 3D-printeted parts are made accessible within the CAD folder. The design files for the custom PCB are available under the PCB folder. A compiled executable "Inverted Pendulum Interface.exe" of the PC-program is also provided, along the full Python code. Regarding the PC-program it is worth mentioning that it’s intended to work on any Windows 10/11 PC with a screen resolution of 1920x1080 and a scaling factor set to 100%.  
+The finalized microcontroller code can be accessed in the designated Arduino code folder. The CAD models and adjoining G-code files of the system's 3D-printed parts are made accessible within the CAD folder. The design files for the custom PCB are available under the PCB folder. A compiled executable "Inverted Pendulum Interface.exe" of the PC-program is also provided, along the full Python code. Regarding the PC-program it is worth mentioning that it’s intended to work on any Windows 10/11 PC with a screen resolution of 1920x1080 and a scaling factor set to 100%.  
 
 
 
