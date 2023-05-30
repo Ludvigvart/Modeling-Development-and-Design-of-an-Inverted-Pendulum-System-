@@ -18,6 +18,8 @@ This section includes different programs used in this project
 
 * [<a href="https://www.autodesk.no/products/fusion-360/overview"><img src="https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1" alt="Next.js" width="150"></a>](https://www.autodesk.no/products/fusion-360/overview)
 * [<a href="https://www.arduino.cc/en/software"><img src="https://images.squarespace-cdn.com/content/v1/5f4fc1d00dea6b17b03f63ad/1613610070709-1IF1A6I1W246K9U3NB1P/Screen+Shot+2021-02-17+at+18.00.37.png" alt="Next-url" width="150"></a>](https://www.arduino.cc/en/software)
+* [<a href="https://www.altium.com/altium-designer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSeZkUI6PymGaxIRjBVsYQfEBIH03PZB0Vg&usqp=CAU" alt="React.js" width="150"></a>](https://www.altium.com/altium-designer)
+
 
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -49,7 +51,7 @@ This section includes different programs used in this project
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1
 [Next-url]: https://images.squarespace-cdn.com/content/v1/5f4fc1d00dea6b17b03f63ad/1613610070709-1IF1A6I1W246K9U3NB1P/Screen+Shot+2021-02-17+at+18.00.37.png
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSeZkUI6PymGaxIRjBVsYQfEBIH03PZB0Vg&usqp=CAU
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
