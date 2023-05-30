@@ -13,8 +13,8 @@ The modeling of the system is centered around the derivation of an expression fo
 </div>
 
 ## Programs used
-Fusion 360 by Autodesk was used to create all the 3D-printed components for the system. The microcontroller program was written using Arduino C. Python 3.9 was used to create the PC-program. Altium Designer was used to design the custom PCB.
-
+Fusion 360 by Autodesk was used to design all 3D-printed components for the system. The program for the microcontroller was written in Arduino C. Altium Designer was used to design the custom PCB.
+Python 3.11 was used to create the PC-program. 
 * [<a href="https://www.autodesk.no/products/fusion-360/overview"><img src="https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1"  width="150" height="40"></a>](https://www.autodesk.no/products/fusion-360/overview)
 * [<a href="https://www.arduino.cc/en/software"><img src="https://images.squarespace-cdn.com/content/v1/5f4fc1d00dea6b17b03f63ad/1613610070709-1IF1A6I1W246K9U3NB1P/Screen+Shot+2021-02-17+at+18.00.37.png"  width="150" height="40"></a>](https://www.arduino.cc/en/software)
 * [<a href="https://www.altium.com/altium-designer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSeZkUI6PymGaxIRjBVsYQfEBIH03PZB0Vg&usqp=CAU"  width="150" height="40"></a>](https://www.altium.com/altium-designer)
