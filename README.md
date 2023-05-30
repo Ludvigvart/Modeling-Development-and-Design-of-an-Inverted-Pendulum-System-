@@ -9,3 +9,6 @@ The modeling of the system is centered around the derivation of an expression fo
 
 
 ![complete_system(1)](https://github.com/Ludvigvart/Modeling-Development-and-Design-of-an-Inverted-Pendulum-System-/assets/130651832/a30bffe6-c71f-4e9f-b459-1c43fbc9213c)
+
+## Build with
+This section includes 
