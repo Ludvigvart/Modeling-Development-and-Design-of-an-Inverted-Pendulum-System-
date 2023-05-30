@@ -13,5 +13,5 @@ The modeling of the system is centered around the derivation of an expression fo
 </div>
 
 ## Build with
-This section includes 
+This section includes different programs used in this project
 
