@@ -1,0 +1,1 @@
+The G-Code files are ready to use with the settings used under the project. The last number in the file name pertains to percent infill. The 3D-print machines used are the Ultimaker 2 Extended+ series. They can also be printed on a normal Ultimaker 2+, except for the pendulums.
