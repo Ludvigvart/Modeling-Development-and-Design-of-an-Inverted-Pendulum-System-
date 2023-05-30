@@ -1,1 +1,1 @@
-*.gcode binary
+*.gcode -diff -merge -text
