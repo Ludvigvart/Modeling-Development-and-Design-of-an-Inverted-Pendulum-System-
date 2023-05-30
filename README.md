@@ -26,8 +26,8 @@ Fusion 360 by Autodesk was used to create all the 3D-printed components for the 
 When uploading new code to microcontroller, with a USB cable, it’s important that the power switch on the system is in the OFF position. With the power switch ON and a USB cable connected, it is likely that the microcontroller will be damaged since 5V then will be supplied from two different sources. 
 When charging the batteries for the system it’s recommended that a voltage between 12.6 - 13 V is supplied with a current of ca. 2 A. We suggest that the batteries should always have a charge between 11.1 – 12.6 V to retain suitable motor performance. 
 
-## Included files
-
+## Notes Reagrding included files
+The PC-program for the system is available as an executable "Inverted Pendulum Interface.exe". The program is intended to work on any windows 10/11 PC with a screen resolution of 1920x1080 and a windows scaling factor set to 100%.
 
 
 
