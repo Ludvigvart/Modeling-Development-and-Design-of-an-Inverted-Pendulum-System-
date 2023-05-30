@@ -8,7 +8,7 @@ The modeling of the system is centered around the derivation of an expression fo
 
 
 
-![dual_axis_system](https://github.com/Ludvigvart/Modeling-Development-and-Design-of-an-Inverted-Pendulum-System-/assets/97682577/c611afdd-bf9d-439f-9153-e396584b6c3e =250x250) 
+<img src="https://github.com/Ludvigvart/Modeling-Development-and-Design-of-an-Inverted-Pendulum-System-/assets/97682577/c611afdd-bf9d-439f-9153-e396584b6c3e" alt="dual_axis_system" width="300">
 ## Build with
 This section includes 
 
