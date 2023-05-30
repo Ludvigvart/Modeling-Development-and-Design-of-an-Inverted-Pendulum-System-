@@ -15,9 +15,8 @@ The modeling of the system is centered around the derivation of an expression fo
 ## Build with
 This section includes different programs used in this project
 
-[![Image Description](https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1)](https://www.autodesk.no/products/fusion-360/overview?term=1-YEAR&tab=subscription)
 
-* <img src="https://link-to-next-js-image" alt="Next.js" width="100">
+* <img src="https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1" alt="Next.js" width="100">
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
