@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=BSc_skjemateikning Member=S?
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Added Component: Designator=J?(CUI_TB003-500-P02BE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB003-500-P02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J? TB003-500-P02BE
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R1 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R2 Res1

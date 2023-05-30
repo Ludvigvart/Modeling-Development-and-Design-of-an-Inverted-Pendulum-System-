@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetESP32_19 Pin=Motor 1-3
+Removed Pin From Net: NetName=NetESP32_19 Pin=Motor 2-3
+Added Pin To Net: NetName=NetESP32_19 Pin=S1-1
+Added Pin To Net: NetName=NetMotor 1_3 Pin=Motor 1-3
+Added Pin To Net: NetName=NetMotor 1_3 Pin=Motor 2-3
+Added Pin To Net: NetName=NetMotor 1_3 Pin=S1-2
+Added Net: Name=NetMotor 1_3
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R1 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R2 Res1

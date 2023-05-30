@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=Temp2 Pin=ESP32-3
+Removed Pin From Net: NetName=Temp1 Pin=ESP32-4
+Removed Pin From Net: NetName=Temp3 Pin=ESP32-12
+Change Component Comment : Designator= Old Comment=SO-0715-02-01-01-L New Comment=15TSP105 
+Change Component Comment : Designator= Old Comment=SO-0715-02-01-01-L New Comment=15TSP105 
+Change Component Comment : Designator= Old Comment=SO-0715-02-01-01-L New Comment=15TSP105 
+Change Component Comment : Designator=J1 Old Comment=SO-0715-02-01-01-L New Comment=15TSP105 
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Added Component: Designator=Multiplexer(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LV4051ADR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Temp4(CUI_TB002-500-02BE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB002-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Temp5(CUI_TB002-500-02BE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB002-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Multiplexer-6
+Added Pin To Net: NetName=GND Pin=Multiplexer-7
+Added Pin To Net: NetName=GND Pin=Multiplexer-8
+Added Pin To Net: NetName=Temp1 Pin=Multiplexer-13
+Added Pin To Net: NetName=Temp2 Pin=Multiplexer-14
+Added Pin To Net: NetName=Temp3 Pin=Multiplexer-15
+Added Pin To Net: NetName=NetC3_2 Pin=Multiplexer-16
+Added Pin To Net: NetName=NetESP32_1 Pin=R10-1
+Added Pin To Net: NetName=NetESP32_1 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=Temp4-2
+Added Pin To Net: NetName=GND Pin=Temp5-2
+Change Net Name : Old Net Name=Motor 2 Channel A New Net Name=Motor2ChannelA
+Change Net Name : Old Net Name=Motor 2 Channel B New Net Name=Motor2ChannelB
+Added Pin To Net: NetName=Motor1Channel A Pin=ESP32-4
+Added Pin To Net: NetName=Motor1Channel A Pin=Motor1-5
+Added Net: Name=Motor1Channel A
+Added Pin To Net: NetName=Motor1Channel B Pin=ESP32-3
+Added Pin To Net: NetName=Motor1Channel B Pin=Motor1-6
+Added Net: Name=Motor1Channel B
+Added Pin To Net: NetName=MuxCOM Pin=ESP32-12
+Added Pin To Net: NetName=MuxCOM Pin=Multiplexer-3
+Added Net: Name=MuxCOM
+Added Pin To Net: NetName=MuxInputA Pin=ESP32-31
+Added Pin To Net: NetName=MuxInputA Pin=Multiplexer-11
+Added Net: Name=MuxInputA
+Added Pin To Net: NetName=MuxInputB Pin=ESP32-30
+Added Pin To Net: NetName=MuxInputB Pin=Multiplexer-10
+Added Net: Name=MuxInputB
+Added Pin To Net: NetName=MuxInputC Pin=ESP32-13
+Added Pin To Net: NetName=MuxInputC Pin=Multiplexer-9
+Added Net: Name=MuxInputC
+Added Pin To Net: NetName=Temp4 Pin=Multiplexer-12
+Added Pin To Net: NetName=Temp4 Pin=R10-2
+Added Pin To Net: NetName=Temp4 Pin=Temp4-1
+Added Net: Name=Temp4
+Added Pin To Net: NetName=Temp5 Pin=Multiplexer-1
+Added Pin To Net: NetName=Temp5 Pin=R11-2
+Added Pin To Net: NetName=Temp5 Pin=Temp5-1
+Added Net: Name=Temp5
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 15TSP105 
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 15TSP105 
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J4 15TSP105 
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component Multiplexer SN74LV4051ADR
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R10 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R11 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component Temp4 TB002-500-02BE
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component Temp5 TB002-500-02BE
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader
+Added Room: Name=BSc_skjemateikning

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [BSc_PCB_teikning.PcbDoc]
+   Generated File[BSc_PCB_teikning.GTO]
+   Generated File[BSc_PCB_teikning.GTP]
+   Generated File[BSc_PCB_teikning.GTS]
+   Generated File[BSc_PCB_teikning.GTL]
+   Generated File[BSc_PCB_teikning.GBL]
+   Generated File[BSc_PCB_teikning.GBS]
+   Generated File[BSc_PCB_teikning.GBP]
+   Generated File[BSc_PCB_teikning.GBO]
+   Generated File[BSc_PCB_teikning.GKO]
+   Generated File[BSc_PCB_teikning.RUL]
+   Generated File[BSc_PCB_teikning.EXTREP]
+   Generated File[BSc_PCB_teikning.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 13:59:58 On 17.02.2023

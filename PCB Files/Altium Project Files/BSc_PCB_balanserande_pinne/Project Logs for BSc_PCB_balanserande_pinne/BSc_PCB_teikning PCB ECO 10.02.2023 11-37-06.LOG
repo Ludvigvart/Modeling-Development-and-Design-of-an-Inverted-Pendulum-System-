@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Motor 2 Channel B Pin=ESP32-27
+Removed Pin From Net: NetName=Motor 2 Channel A Pin=ESP32-28
+Added Pin To Net: NetName=Motor 2 Channel A Pin=ESP32-27
+Added Pin To Net: NetName=Motor 2 Channel B Pin=ESP32-28
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader
+Added Room: Name=BSc_skjemateikning

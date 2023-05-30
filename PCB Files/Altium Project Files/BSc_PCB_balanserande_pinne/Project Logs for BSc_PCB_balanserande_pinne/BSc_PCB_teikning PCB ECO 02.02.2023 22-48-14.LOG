@@ -1,0 +1,76 @@
+Removed Member From Class: ClassName=BSc_skjemateikning Member=1860 Batteri 2
+Removed Member From Class: ClassName=BSc_skjemateikning Member=18650 Batteri 1
+Removed Member From Class: ClassName=BSc_skjemateikning Member=18650 Batteri 3
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Added Component: Designator=C6(WCAP-CSGP_885012207125)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Electronics Inc'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "885012207125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetMotor 1_1 Pin=C10-1
+Added Pin To Net: NetName=NetMotor 1_2 Pin=C10-2
+Added Pin To Net: NetName=NetMotor 2_1 Pin=C11-1
+Added Pin To Net: NetName=NetMotor 2_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=Motor Driver 1-1
+Added Pin To Net: NetName=IN3 Pin=Motor Driver 1-3
+Added Pin To Net: NetName=GND Pin=Motor Driver 1-9
+Added Pin To Net: NetName=GND Pin=Motor Driver 1-10
+Added Pin To Net: NetName=GND Pin=Motor Driver 1-11
+Added Pin To Net: NetName=GND Pin=Motor Driver 1-12
+Added Pin To Net: NetName=IN4 Pin=Motor Driver 1-19
+Added Pin To Net: NetName=GND Pin=Motor Driver 1-21
+Added Pin To Net: NetName=GND Pin=Motor Driver 2-1
+Added Pin To Net: NetName=IN1 Pin=Motor Driver 2-3
+Added Pin To Net: NetName=GND Pin=Motor Driver 2-9
+Added Pin To Net: NetName=GND Pin=Motor Driver 2-10
+Added Pin To Net: NetName=GND Pin=Motor Driver 2-11
+Added Pin To Net: NetName=GND Pin=Motor Driver 2-12
+Added Pin To Net: NetName=IN2 Pin=Motor Driver 2-19
+Added Pin To Net: NetName=GND Pin=Motor Driver 2-21
+Change Net Name : Old Net Name=NetMotor 1_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetMotor 1_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetMotor 2_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetMotor 2_2 New Net Name=NetC11_2
+Added Pin To Net: NetName=D1 Pin=ESP32-37
+Added Pin To Net: NetName=D1 Pin=Motor Driver 2-18
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=ESP32-36
+Added Pin To Net: NetName=D2 Pin=Motor Driver 2-13
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=ESP32-9
+Added Pin To Net: NetName=D3 Pin=Motor Driver 1-18
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=ESP32-26
+Added Pin To Net: NetName=D4 Pin=Motor Driver 1-13
+Added Net: Name=D4
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=Motor Driver 1-17
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=Motor Driver 1-4
+Added Pin To Net: NetName=NetC7_1 Pin=Motor Driver 1-5
+Added Pin To Net: NetName=NetC7_1 Pin=Motor Driver 1-16
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=Motor Driver 2-17
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=Motor Driver 2-4
+Added Pin To Net: NetName=NetC9_1 Pin=Motor Driver 2-5
+Added Pin To Net: NetName=NetC9_1 Pin=Motor Driver 2-16
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 TB002-500-02BE
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 TB002-500-02BE
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J4 TB002-500-02BE
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R1 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R2 Res1

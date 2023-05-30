@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=NetC10_1 Pin=Motor Driver 1-6
+Removed Pin From Net: NetName=NetC10_2 Pin=Motor Driver 1-14
+Removed Pin From Net: NetName=NetC11_1 Pin=Motor Driver 2-6
+Removed Pin From Net: NetName=NetC11_2 Pin=Motor Driver 2-14
+Removed Pin From Net: NetName=NetESP32_1 Pin=R1-1
+Removed Pin From Net: NetName=NetESP32_7 Pin=R1-2
+Removed Pin From Net: NetName=NetESP32_1 Pin=R2-1
+Removed Pin From Net: NetName=NetESP32_8 Pin=R2-2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=RES_ERJ2RKF1002X
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=RES_ERJ2RKF1002X
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=ERJ2RKF1002X
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=ERJ2RKF1002X
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change component parameters: Designator = "R1" ("R1"); Footprint = "AXIAL-0.3"; UniqueID = "\YRVSTSGD" ("\YRVSTSGD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "AXIAL-0.3"; UniqueID = "\IBIYFQHU" ("\IBIYFQHU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=C7-1
+Added Pin To Net: NetName=NetC1_2 Pin=C9-1
+Added Pin To Net: NetName=NetC3_2 Pin=ESP32-19
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=NetC3_2 Pin=Motor 1-3
+Added Pin To Net: NetName=NetC3_2 Pin=Motor 2-3
+Added Pin To Net: NetName=NetC1_2 Pin=Motor Driver 1-4
+Added Pin To Net: NetName=NetC1_2 Pin=Motor Driver 1-5
+Added Pin To Net: NetName=NetC1_2 Pin=Motor Driver 1-16
+Added Pin To Net: NetName=NetC1_2 Pin=Motor Driver 2-4
+Added Pin To Net: NetName=NetC1_2 Pin=Motor Driver 2-5
+Added Pin To Net: NetName=NetC1_2 Pin=Motor Driver 2-16
+Added Pin To Net: NetName=NetESP32_7 Pin=R3-1
+Added Pin To Net: NetName=NetESP32_1 Pin=R3-2
+Added Pin To Net: NetName=NetESP32_8 Pin=R4-1
+Added Pin To Net: NetName=NetESP32_1 Pin=R4-2
+Added Pin To Net: NetName=NetC3_2 Pin=R5-1
+Added Pin To Net: NetName=NetC3_2 Pin=R6-2
+Added Pin To Net: NetName=NetESP32_1 Pin=R7-2
+Added Pin To Net: NetName=NetESP32_1 Pin=R8-1
+Added Pin To Net: NetName=NetC1_2 Pin=S1-1A
+Added Pin To Net: NetName=FS1 Pin=ESP32-6
+Added Pin To Net: NetName=FS1 Pin=Motor Driver 2-2
+Added Pin To Net: NetName=FS1 Pin=R6-1
+Added Net: Name=FS1
+Added Pin To Net: NetName=FS2 Pin=ESP32-5
+Added Pin To Net: NetName=FS2 Pin=Motor Driver 1-2
+Added Pin To Net: NetName=FS2 Pin=R5-2
+Added Net: Name=FS2
+Added Pin To Net: NetName=NetESP32_3 Pin=ESP32-3
+Added Pin To Net: NetName=NetESP32_3 Pin=J4-1
+Added Pin To Net: NetName=NetESP32_3 Pin=R8-2
+Added Net: Name=NetESP32_3
+Added Pin To Net: NetName=NetESP32_4 Pin=ESP32-4
+Added Pin To Net: NetName=NetESP32_4 Pin=J3-1
+Added Pin To Net: NetName=NetESP32_4 Pin=R7-1
+Added Net: Name=NetESP32_4
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C6 885012207125
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C9 EEETQV470XAP
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R3 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R4 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R5 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R6 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R7 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R8 ERJ2RKF1002X

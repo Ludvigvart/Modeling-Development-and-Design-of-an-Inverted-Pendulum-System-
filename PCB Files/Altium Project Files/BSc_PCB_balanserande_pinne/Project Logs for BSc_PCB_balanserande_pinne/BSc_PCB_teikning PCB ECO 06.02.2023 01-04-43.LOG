@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=FS2 Pin=ESP32-5
+Removed Pin From Net: NetName=FS1 Pin=ESP32-6
+Removed Pin From Net: NetName=D3 Pin=ESP32-9
+Removed Pin From Net: NetName=IN1 Pin=ESP32-10
+Removed Pin From Net: NetName=IN2 Pin=ESP32-11
+Removed Pin From Net: NetName=IN3 Pin=ESP32-15
+Removed Pin From Net: NetName=NetC10_1 Pin=Motor 1-1
+Removed Pin From Net: NetName=NetC10_2 Pin=Motor 1-2
+Removed Pin From Net: NetName=NetC11_1 Pin=Motor 2-1
+Removed Pin From Net: NetName=NetC11_2 Pin=Motor 2-2
+Removed Pin From Net: NetName=GND Pin=Motor Driver 1-1
+Removed Pin From Net: NetName=NetC10_1 Pin=Motor Driver 1-7
+Removed Pin From Net: NetName=NetC10_2 Pin=Motor Driver 1-15
+Removed Pin From Net: NetName=GND Pin=Motor Driver 2-1
+Removed Pin From Net: NetName=NetC11_1 Pin=Motor Driver 2-7
+Removed Pin From Net: NetName=NetC11_2 Pin=Motor Driver 2-15
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1005X55N New Footprint=WCAP-CSGP_885012208069
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1005X55N New Footprint=WCAP-CSGP_885012208069
+Change Component Footprint: Designator=C2 Old Footprint=WCAP-CSGP_885012207072 New Footprint=CAPC1005X55N
+Change Component Comment : Designator=C2 Old Comment=885012207072 New Comment=CGA2B3X7R1E104K050BB
+Change Component Comment : Designator=C10 Old Comment=CGA2B3X7R1E104K050BB New Comment=885012208069
+Change Component Comment : Designator=C11 Old Comment=CGA2B3X7R1E104K050BB New Comment=885012208069
+Change Component Designator: OldDesignator=J1 NewDesignator=12V In
+Change Component Designator: OldDesignator=J2 NewDesignator=Temp 3
+Change Component Designator: OldDesignator=J3 NewDesignator=Temp 1
+Change Component Designator: OldDesignator=J4 NewDesignator=Temp 2
+Change component parameters: Designator = "C2" ("C2"); Footprint = "WCAP-CSGP_885012207072"; UniqueID = "\PYYAAICO" ("\PYYAAICO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK Electronics'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CGA2B3X7R1E104K050BB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC1005X55N"; UniqueID = "\BQVFSFTC" ("\BQVFSFTC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Electronics Inc'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "885012208069"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC1005X55N"; UniqueID = "\ISFQKNCN" ("\ISFQKNCN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Electronics Inc'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "885012208069"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=(USB Li-ion batterilader)
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=FS1 Pin=ESP32-5
+Added Pin To Net: NetName=FS2 Pin=ESP32-6
+Added Pin To Net: NetName=IN1 Pin=ESP32-9
+Added Pin To Net: NetName=IN2 Pin=ESP32-10
+Added Pin To Net: NetName=IN3 Pin=ESP32-11
+Added Pin To Net: NetName=GND Pin=ESP32-14
+Added Pin To Net: NetName=D3 Pin=ESP32-15
+Added Pin To Net: NetName=NetC10_2 Pin=Motor 1-1
+Added Pin To Net: NetName=NetC10_1 Pin=Motor 1-2
+Added Pin To Net: NetName=NetC11_2 Pin=Motor 2-1
+Added Pin To Net: NetName=NetC11_1 Pin=Motor 2-2
+Added Pin To Net: NetName=NetC10_2 Pin=Motor Driver 1-7
+Added Pin To Net: NetName=NetC10_1 Pin=Motor Driver 1-15
+Added Pin To Net: NetName=NetC11_2 Pin=Motor Driver 2-7
+Added Pin To Net: NetName=NetC11_1 Pin=Motor Driver 2-15
+Added Pin To Net: NetName=GND Pin=MPU6050-7
+Added Pin To Net: NetName=NetESP32_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=Temp 3-2
+Change Net Name : Old Net Name=NetESP32_3 New Net Name=Temp2
+Change Net Name : Old Net Name=NetESP32_4 New Net Name=Temp1
+Added Pin To Net: NetName=AGND Pin=Motor Driver 1-1
+Added Pin To Net: NetName=AGND Pin=Motor Driver 2-1
+Added Net: Name=AGND
+Added Pin To Net: NetName=Net12V In_1 Pin=-1
+Added Pin To Net: NetName=Net12V In_1 Pin=12V In-1
+Added Pin To Net: NetName=Net12V In_1 Pin=S1-1
+Added Net: Name=Net12V In_1
+Added Pin To Net: NetName=Temp3 Pin=ESP32-12
+Added Pin To Net: NetName=Temp3 Pin=R9-2
+Added Pin To Net: NetName=Temp3 Pin=Temp 3-1
+Added Net: Name=Temp3
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R9 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader

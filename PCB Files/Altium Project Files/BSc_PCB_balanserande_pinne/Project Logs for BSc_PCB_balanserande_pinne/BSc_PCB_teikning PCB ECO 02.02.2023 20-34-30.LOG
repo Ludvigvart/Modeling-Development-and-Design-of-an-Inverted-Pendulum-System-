@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J? Old Footprint=CUI_TB003-500-P02BE New Footprint=691214110002S
+Change Component Comment : Designator=J? Old Comment=TB003-500-P02BE New Comment=691214110002S
+Change component parameters: Designator = "J?" ("J?"); Footprint = "CUI_TB003-500-P02BE"; UniqueID = "\AYJDRHEH" ("\AYJDRHEH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'W\xfcrth Elektronik'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "691214110002S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R1 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R2 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component S1 R1966ABLKBLKGR

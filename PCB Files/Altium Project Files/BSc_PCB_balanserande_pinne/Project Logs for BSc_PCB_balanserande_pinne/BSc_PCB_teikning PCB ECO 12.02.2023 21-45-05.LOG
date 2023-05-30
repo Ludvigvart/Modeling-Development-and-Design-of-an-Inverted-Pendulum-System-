@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Temp1 Pin=MUX-13
+Removed Pin From Net: NetName=Temp2 Pin=MUX-14
+Removed Pin From Net: NetName=Temp3 Pin=MUX-15
+Change Component Comment : Designator= Old Comment=15TSP105  New Comment=15TSP105
+Change Component Comment : Designator=J1 Old Comment=15TSP105  New Comment=15TSP105
+Change Component Comment : Designator=J2 Old Comment=15TSP105  New Comment=15TSP105
+Change Component Comment : Designator=J4 Old Comment=15TSP105  New Comment=15TSP105
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator=MUX NewDesignator=Multiplexer
+Added Pin To Net: NetName=Temp3 Pin=Multiplexer-13
+Added Pin To Net: NetName=Temp1 Pin=Multiplexer-14
+Added Pin To Net: NetName=Temp2 Pin=Multiplexer-15
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component Multiplexer SN74LV4051ADR
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader
+Added Room: Name=BSc_skjemateikning

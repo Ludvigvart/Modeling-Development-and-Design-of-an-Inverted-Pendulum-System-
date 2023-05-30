@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Temp1 Pin=Multiplexer-14
+Removed Pin From Net: NetName=Temp2 Pin=Multiplexer-15
+Added Pin To Net: NetName=Temp2 Pin=Multiplexer-14
+Added Pin To Net: NetName=Temp1 Pin=Multiplexer-15
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader
+Added Room: Name=BSc_skjemateikning

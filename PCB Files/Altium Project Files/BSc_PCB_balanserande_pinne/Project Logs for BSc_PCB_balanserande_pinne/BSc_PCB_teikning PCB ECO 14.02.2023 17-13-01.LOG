@@ -1,0 +1,54 @@
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Added Component: Designator=R12(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_ERJ2RKF1002X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ2RKF1002X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Motor1Channel A Pin=R12-1
+Added Pin To Net: NetName=NetC3_2 Pin=R12-2
+Added Pin To Net: NetName=Motor1Channel B Pin=R13-1
+Added Pin To Net: NetName=NetC3_2 Pin=R13-2
+Added Pin To Net: NetName=Motor2ChannelA Pin=R14-1
+Added Pin To Net: NetName=NetC3_2 Pin=R14-2
+Added Pin To Net: NetName=Motor2ChannelB Pin=R15-1
+Added Pin To Net: NetName=NetC3_2 Pin=R15-2
+Change Net Name : Old Net Name=NetLMR51420_4 New Net Name=NetR1_2
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J1 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J4 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component MotorDriver1 MC33886PVW
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component Mux SN74LV4051ADR
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R12 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R13 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R14 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R15 ERJ2RKF1002X
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component SBC LMR51420XDDCR
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader
+Added Room: Name=BSc_skjemateikning

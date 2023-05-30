@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=C1 Old Footprint=WCAP-CSGP_885012210032 New Footprint=WCAP-CSGP_885012208094
+Change Component Comment : Designator=C1 Old Comment=885012210032 New Comment=885012208094
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Change component parameters: Designator = "C1" ("C1"); Footprint = "WCAP-CSGP_885012210032"; UniqueID = "\UKSNNXJD" ("\UKSNNXJD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Electronics Inc'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "885012208094"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C18(WCAP-CSGP_885012208094)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Electronics Inc'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "885012208094"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC1_2 Pin=C18-2
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C18 885012208094
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component ESP32 ESP32-DEVKITC
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J1 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J4 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component LS1 TXS0108EPWR
+Added Room: Name=BSc_skjemateikning

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Motor 1 Channel B Pin=ESP32-30
+Removed Pin From Net: NetName=Motor 1 Channel A Pin=ESP32-31
+Change Component Designator: OldDesignator= NewDesignator=J2
+Added Pin To Net: NetName=Motor 1 Channel A Pin=ESP32-30
+Added Pin To Net: NetName=Motor 1 Channel B Pin=ESP32-31
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 SO-0715-02-01-01-L
+Added Room: Name=BSc_skjemateikning

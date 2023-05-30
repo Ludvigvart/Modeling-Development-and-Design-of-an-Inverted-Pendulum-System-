@@ -1,0 +1,10 @@
+Added Component: Designator=S1(SW_RB141C1100)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'e-switch inc'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RB141C1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R1 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R2 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component S1 RB141C1100

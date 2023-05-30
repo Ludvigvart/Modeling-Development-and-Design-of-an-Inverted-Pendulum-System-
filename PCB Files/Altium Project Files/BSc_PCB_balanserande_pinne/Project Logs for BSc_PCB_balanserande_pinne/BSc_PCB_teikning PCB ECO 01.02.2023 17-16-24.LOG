@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=BSc_skjemateikning Member=S1
+Added Component: Designator=S?(SW_R1966ABLKBLKEPRED)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'E-Switch'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "R1966ABLKBLKEPRED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C1 885012210032
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C2 885012207072
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C5 CGA2B3X7R1E104K050BB
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C6 EEETQV470XAP
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C8 885012207125
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R1 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component R2 Res1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component S? R1966ABLKBLKEPRED

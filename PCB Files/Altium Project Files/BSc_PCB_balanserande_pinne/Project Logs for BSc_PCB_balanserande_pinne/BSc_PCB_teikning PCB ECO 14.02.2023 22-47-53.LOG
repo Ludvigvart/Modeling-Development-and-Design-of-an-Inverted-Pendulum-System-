@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=IN3 Pin=MotorDriver1-3
+Removed Pin From Net: NetName=D4 Pin=MotorDriver1-13
+Removed Pin From Net: NetName=D3 Pin=MotorDriver1-18
+Removed Pin From Net: NetName=IN4 Pin=MotorDriver1-19
+Removed Pin From Net: NetName=IN1 Pin=MotorDriver2-3
+Removed Pin From Net: NetName=D2 Pin=MotorDriver2-13
+Removed Pin From Net: NetName=D1 Pin=MotorDriver2-18
+Removed Pin From Net: NetName=IN2 Pin=MotorDriver2-19
+Removed Pin From Net: NetName=Motor1Channel A Pin=R12-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R12-2
+Removed Pin From Net: NetName=Motor1Channel B Pin=R13-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R13-2
+Removed Pin From Net: NetName=Motor2ChannelA Pin=R14-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R14-2
+Removed Pin From Net: NetName=Motor2ChannelB Pin=R15-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R15-2
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Added Component: Designator=C14(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK Electronics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CGA2B3X7R1E104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK Electronics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CGA2B3X7R1E104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TXS0108EPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=-2
+Added Pin To Net: NetName=3.3V Pin=-10
+Added Pin To Net: NetName=GND Pin=-11
+Added Pin To Net: NetName=IN4 Pin=-12
+Added Pin To Net: NetName=IN3 Pin=-13
+Added Pin To Net: NetName=D4 Pin=-14
+Added Pin To Net: NetName=D3 Pin=-15
+Added Pin To Net: NetName=IN2 Pin=-16
+Added Pin To Net: NetName=IN1 Pin=-17
+Added Pin To Net: NetName=D2 Pin=-18
+Added Pin To Net: NetName=NetC3_2 Pin=-19
+Added Pin To Net: NetName=D1 Pin=-20
+Added Pin To Net: NetName=3.3V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetC3_2 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=NetC3_2 Pin=R12-1
+Added Pin To Net: NetName=Motor1Channel A Pin=R12-2
+Added Pin To Net: NetName=NetC3_2 Pin=R13-1
+Added Pin To Net: NetName=Motor1Channel B Pin=R13-2
+Added Pin To Net: NetName=NetC3_2 Pin=R14-1
+Added Pin To Net: NetName=Motor2ChannelA Pin=R14-2
+Added Pin To Net: NetName=NetC3_2 Pin=R15-1
+Added Pin To Net: NetName=Motor2ChannelB Pin=R15-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=Net_19
+Added Pin To Net: NetName=A1 Pin=-1
+Added Pin To Net: NetName=A1 Pin=MotorDriver2-18
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=-3
+Added Pin To Net: NetName=A2 Pin=MotorDriver2-13
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=-4
+Added Pin To Net: NetName=A3 Pin=MotorDriver2-3
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=-5
+Added Pin To Net: NetName=A4 Pin=MotorDriver2-19
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=-6
+Added Pin To Net: NetName=A5 Pin=MotorDriver1-18
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=-7
+Added Pin To Net: NetName=A6 Pin=MotorDriver1-13
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=-8
+Added Pin To Net: NetName=A7 Pin=MotorDriver1-3
+Added Net: Name=A7
+Added Pin To Net: NetName=A8 Pin=-9
+Added Pin To Net: NetName=A8 Pin=MotorDriver1-19
+Added Net: Name=A8
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C14 CGA2B3X7R1E104K050BB
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component C15 CGA2B3X7R1E104K050BB
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J1 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J4 15TSP105
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  TXS0108EPWR
+Added Room: Name=BSc_skjemateikning

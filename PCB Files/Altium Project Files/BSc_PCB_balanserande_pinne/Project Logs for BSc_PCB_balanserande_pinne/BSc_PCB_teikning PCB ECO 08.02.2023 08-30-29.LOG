@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=S1-1A
+Removed Pin From Net: NetName=Net12V_1 Pin=S1-1
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Added Pin To Net: NetName=Net12V_1 Pin=S1-1A
+Added Pin To Net: NetName=NetC1_2 Pin=S1-1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J1 SO-0715-02-01-01-L
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 SO-0715-02-01-01-L
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 SO-0715-02-01-01-L
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J4 SO-0715-02-01-01-L

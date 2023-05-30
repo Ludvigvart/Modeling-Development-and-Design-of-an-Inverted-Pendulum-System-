@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=Motor2-x
+Removed Pin From Net: NetName=NetC1_2 Pin=MotorDriver1-4
+Removed Pin From Net: NetName=NetC1_2 Pin=MotorDriver1-5
+Removed Pin From Net: NetName=NetC1_2 Pin=MotorDriver2-4
+Removed Pin From Net: NetName=NetC1_2 Pin=MotorDriver2-5
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Add Pin To Net: Unknown Pin: Pin Motor2-3
+Added Pin To Net: NetName=GND Pin=MotorDriver1-1
+Added Pin To Net: NetName=GND Pin=MotorDriver2-1
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J1 SO-0715-02-01-01-L
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J2 SO-0715-02-01-01-L
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J3 SO-0715-02-01-01-L
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component J4 SO-0715-02-01-01-L
+Added Member To Class: ClassName=BSc_skjemateikning Member=Component  USB Li-ion batterilader
+Added Room: Name=BSc_skjemateikning
