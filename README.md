@@ -17,6 +17,7 @@ This section includes different programs used in this project
 
 
 * [<a href="https://www.autodesk.no/products/fusion-360/overview"><img src="https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1" alt="Next.js" width="150"></a>](https://www.autodesk.no/products/fusion-360/overview)
+* [<a href="https://www.arduino.cc/en/software"><img src="https://content.instructables.com/FSY/8EIR/K87PGNSI/FSY8EIRK87PGNSI.png" alt="Next-url" width="150"></a>](https://www.arduino.cc/en/software)
 
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -47,7 +48,7 @@ This section includes different programs used in this project
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://i0.wp.com/www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2019/06/fusion-logo.png?ssl=1
-[Next-url]: https://www.autodesk.no/products/fusion-360/overview?term=1-YEAR&tab=subscription
+[Next-url]: https://content.instructables.com/FSY/8EIR/K87PGNSI/FSY8EIRK87PGNSI.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
